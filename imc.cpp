@@ -9,6 +9,7 @@ class Patient
   private:
     double poids;
     double taille;
+    double imc;
 
   public: // 如果不声明 public，所有东西会默认为 private
     void init(double input1, double input2)

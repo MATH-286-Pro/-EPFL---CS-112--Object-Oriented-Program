@@ -1,3 +1,9 @@
 .vscode
 *.exe
 *.o
+
+Learning/*
+!Learning/Basic.ipynb
+
+Notebook/*
+!Notebook/exercise1.ipynb
